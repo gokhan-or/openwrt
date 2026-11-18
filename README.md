@@ -1,4 +1,4 @@
-![OpenWrt logo](include/logo.png)
+OpenWrt logo include/logo.png
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
 of trying to create a single, static firmware, OpenWrt provides a fully
@@ -18,7 +18,7 @@ package selection to be used as WiFi home router. To quickly find a factory
 image usable to migrate from a vendor stock firmware to OpenWrt, try the
 *Firmware Selector*.
 
-* [OpenWrt Firmware Selector](https://firmware-selector.openwrt.org/)
+* OpenWrt Firmware Selector](https://firmware-selector.openwrt.org/)
 
 If your device is supported, please follow the **Info** link to see install
 instructions or consult the support resources listed below.
